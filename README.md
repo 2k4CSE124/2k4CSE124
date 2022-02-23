@@ -5,8 +5,16 @@
   <a href="https://www.linkedin.com/in/muhammadmobeen1/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
 </div>
-  </div>
+  <img src="https://komarev.com/ghpvc/?username=2k4CSE124&style=flat-square&color=blue" alt=""/>
+
+<h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+</div>
 
 <!--
 **2k4CSE124/2k4CSE124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
